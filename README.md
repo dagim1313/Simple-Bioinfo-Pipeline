@@ -1,5 +1,4 @@
 # Simple Bioinformatics QC Pipeline in R
-
 ## Overview
 This portfolio project demonstrates a simple bioinformatics quality-control (QC) workflow using R.
 
